@@ -1,4 +1,4 @@
-# AmazingData SDK 安装
+# 银河证券 星耀数智 AmazingData SDK 安装指南
 
 ## tgw 安装
 ```bash
