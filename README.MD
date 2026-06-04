@@ -1,5 +1,6 @@
 # 银河证券 星耀数智 AmazingData SDK 安装指南
 
+下载tgw文件和对应python版本的AmazingData文件，如果网络问题下载不了，可关注公众号，后台发送: amazingdata下载 , 获取网盘下载链接。
 ## tgw 安装
 ```bash
 pip install tgw-1.7.1-py3-none-any.whl
