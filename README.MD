@@ -12,5 +12,6 @@ pip install AmazingData-1.0.0-cp312-none-any.whl
 [https://amazing.ptradeapi.com](https://amazing.ptradeapi.com)
 
 ## 开通权限
-关注公众号,获取联系方式
+* 关注公众号,获取联系方式
+<br>
 ![](./img/kzz.jpg)
